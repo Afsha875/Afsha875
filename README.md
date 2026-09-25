@@ -2,6 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=AFSHA%20FATHIMA&fontSize=70&fontAlignY=35&desc=Python%20Backend%20Developer%20%7C%20API%20Architect%20%7C%20System%20Designer&descSize=20&descAlignY=55&animation=twinkling)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-afshafathima.com-FF5CA8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://afshafathima.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Afsha875-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afsha875)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsha-fathima-lnu-a29996298/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathimaafsha08@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Cleveland%2C%20Ohio-00C851?style=for-the-badge&logo=google-maps&logoColor=white)](#)
